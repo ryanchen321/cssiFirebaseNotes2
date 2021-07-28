@@ -33,3 +33,12 @@ input::placeholder {
   color: ghostwhite;
   margin: 10px
 }
+
+.card-footer {
+    padding: 10px; 
+    /* margin-left: 15px; */
+}
+
+.card-footer-info {
+    font-size: small;
+}
